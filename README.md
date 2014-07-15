@@ -10,7 +10,7 @@ A gem is Ruby code that wraps around the API of a web application. API stands fo
 
 ##Twilio v. Mailgun
 
-There are two really great web applications that can handle messaging for us. [Twilio](https://www.twilio.com/) is a service used to send text messages from another application. [Mailgun](http://www.mailgun.com/)is a service designed to send emails from a web application. 
+There are two really great web applications that can handle messaging for us. [Twilio](https://www.twilio.com/) is a service used to send text messages from another application. [Mailgun](http://www.mailgun.com/) is a service designed to send emails from a web application. 
 
 Depending on the functionality you would like for your final project, you can use either Twilio or Mailgun.
 
