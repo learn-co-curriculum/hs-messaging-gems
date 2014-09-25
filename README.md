@@ -1,21 +1,15 @@
-# Messaging With Gems
+## Messaging APIs with Gems
 
-##Setup
+We're going to look at two messaging APIs that you may want to use in your final projects.
 
-Because messaging is the first step of your final project, go ahead and create a directory in your development directory to store all the code for your final project. You will want to create a ruby file inside the directory for your final project that will hold all the code to send your messages.
-
-
-##What is a gem?
-A gem is Ruby code that wraps around the API of a web application. API stands for Application Programming Interface. It's basically a set of instructions and standards for how you should access a web application. An API is designed specifically for other developers to use a software, not for users. Basically, some great developers wrote ruby methods to access the APIs and made them open-sourced, so we can all reap the benefits. 
-
-##Twilio v. Mailgun
+###Twilio and Mailgun
 
 There are two really great web applications that can handle messaging for us. [Twilio](https://www.twilio.com/) is a service used to send text messages from another application. [Mailgun](http://www.mailgun.com/) is a service designed to send emails from a web application. 
 
 Depending on the functionality you would like for your final project, you can use either Twilio or Mailgun.
 
 
-##Twilio
+###Twilio
 
 First things first, you need to have a Twilio account. Because Twilio requires a credit card authorization, please use Flatiron School's account.
 
