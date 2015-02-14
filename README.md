@@ -22,7 +22,7 @@ Next, you will need to follow the instructions found in the README.md file of th
 The only two headers we care about are the instructions under `Setup Work` and `Send an SMS`. We are literally going to copy and paste the code provided into the ruby file in the directory of our final project.
 
 There are a few places that we'll need to fill in with our own data:
-auth_token you are going to want to replace with `ACe330ba04d082392df4cb3511dcb72cec` account_sid you'll want to replace with `2008ea097713e401a16c54029058da82` and finally, the from phone number you'll want to replace with `+181526420231`.
+auth_token you are going to want to replace with `ACefe569a01f6bbf8fa0c25b8e539e7489` account_sid you'll want to replace with `db892f3e1586b3699ec3e58c7e003bdc` and finally, the from phone number you'll want to replace with `+14342605034`.
 
 You are also going to want to change the body of the text and the number you want to send the text to, but that's up to you!
 
