@@ -42,3 +42,5 @@ Don't worry about any other instructions that Mailgun tries to provide you. We a
 
 In order to actually execute this code, you'll just want to run the ruby file. In terminal in the directory of your final project, you'll want to enter `ruby filename.rb`
 
+
+<a href='https://learn.co/lessons/hs-messaging-gems' data-visibility='hidden'>View this lesson on Learn.co</a>
